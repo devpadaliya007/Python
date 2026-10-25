@@ -1,0 +1,24 @@
+Roll No: 131
+Name: dev padaliya
+Department: diploma cse
+..............................
+Roll No: 108
+Name: shlok prasad
+Department: diploma cse
+..............................
+Roll No: 230
+Name: nirav nimavat
+Department: diploma cse
+..............................
+Roll No: 259
+Name: hemang vaghela
+Department: diploma cse
+..............................
+Roll No: 135
+Name: harsh bhanushali
+Department: diploma cse
+..............................
+Roll No: 160
+Name: drashti padsumbiya
+Department: diploma cse
+..............................
